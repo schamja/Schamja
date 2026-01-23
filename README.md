@@ -1,23 +1,32 @@
+<div align="center">
+
+# 👋 Hallo, ich bin Schamja Shahaga!
+
+**Angehende AI-Engineerin | Web-Development | Media-Produktion**
+
+[![Portfolio](https://img.shields.io/badge/Mein_Portfolio-Besuchen-blueviolet?style=for-the-badge&logo=googlechrome&logoColor=white)](https://heidipyaricordero.netlify.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Vernetzen-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/schamja-s-70112368/)
+
+</div>
+---
+
+</div>
+
 <div align="left">
-
-👋 Hallo, ich bin **Schamja Shahaga**  
-
-🤖 **Angehende AI-Engineerin** | 💻 **Web-Development** | 🎨 **Media-Produktion**
-
+ 
+🎥 **Portfolio-Video**  
+👉 https://schamja-shahaga.de/Portfolio.mp4  
 </div>
 
 ---
 
-<div align="left">
+### 🚀 Über mich
 
-🎥 **Portfolio-Video**  
-👉 https://schamja-shahaga.de/Portfolio.mp4  
+Als **Mathematisch-Technische Assistentin Informatik** verbinde ich tiefgreifendes IT-Wissen mit über einem Jahrzehnt Praxiserfahrung. Aktuell spezialisiere ich mich auf **AI Engineering**, um moderne KI-Methodiken zur Automatisierung und Optimierung komplexer Systeme einzusetzen.
 
-Als **Mathematisch-Technische Assistentin Informatik** verbinde ich tiefgreifendes Informatik-Wissen mit über **12 Jahren Praxiserfahrung** in Web-Development und Media-Produktion.  
-
-Meine aktuelle Spezialisierung zur **AI Engineerin** ermöglicht es mir, moderne KI-Methoden gezielt zur **Automatisierung, Analyse und Optimierung komplexer IT-Systeme** einzusetzen.
-
-</div>
+* 🔭 **Aktueller Fokus:** GenAI, LLM-Integration & API-Optimierung.
+* ⚡ **Stärke:** Die Brücke zwischen technischer Präzision (MATSE) und kreativer Media-Produktion.
+* 🌱 **Lernpfad:** AI-Engineer an der Masterschool (2024 - 2026).
 
 ---
 
@@ -63,3 +72,17 @@ Meine aktuelle Spezialisierung zur **AI Engineerin** ermöglicht es mir, moderne
   KI · GenAI · LLMs · API-Integration · HuggingFace · Kostenabschätzung von GenAI-Systemen
 - 📊 Datenbanken:  
   **SQLite & PostgreSQL**
+
+
+### 📊 GitHub Statistiken
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=heidipyaricordero-create&show_icons=true&theme=tokyonight&border_radius=10)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heidipyaricordero-create&layout=compact&theme=tokyonight&border_radius=10)
+
+</div>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=heidipyaricordero-create&label=Profil-Besuche&color=blueviolet&style=flat-square" alt="Views" />
+</p>
