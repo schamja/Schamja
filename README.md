@@ -66,12 +66,12 @@ Als **Mathematisch-Technische Assistentin Informatik** verbinde ich tiefgreifend
   **SQLite & PostgreSQL**
 
 
-### 📊 GitHub Statistiken
+### 📊 GitHub Insights
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=heidipyaricordero-create&show_icons=true&theme=tokyonight&border_radius=10)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=schamjashahaga-create&layout=compact&theme=tokyonight&border_radius=10)
+![Schamja's Stats](https://github-readme-stats.vercel.app/api?username=schamja&show_icons=true&theme=tokyonight&border_radius=10)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=schamja&layout=compact&theme=tokyonight&border_radius=10)
 
 </div>
 
