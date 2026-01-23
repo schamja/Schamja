@@ -4,13 +4,12 @@
 
 **Angehende AI-Engineerin | Web-Development | Media-Produktion**
 
-[![Portfolio](https://img.shields.io/badge/Mein_Portfolio-Besuchen-blueviolet?style=for-the-badge&logo=googlechrome&logoColor=white)](https://heidipyaricordero.netlify.app/)
+[![Portfolio](https://img.shields.io/badge/Mein_Portfolio-Besuchen-blueviolet?style=for-the-badge&logo=googlechrome&logoColor=white)](https://schamja-shahaga.de)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Vernetzen-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/schamja-s-70112368/)
 
 </div>
----
 
-</div>
+---
 
 <div align="left">
  
@@ -29,15 +28,6 @@ Als **Mathematisch-Technische Assistentin Informatik** verbinde ich tiefgreifend
 * 🌱 **Lernpfad:** AI-Engineer an der Masterschool (2024 - 2026).
 
 ---
-
-## 🌐 Portfolio & Kontakt
-
-[![Portfolio](https://img.shields.io/badge/Mein_Portfolio-Besuchen-blueviolet?style=for-the-badge&logo=googlechrome&logoColor=white)](https://schamja-shahaga.de)
-[![LinkedIn](https://img.shields.io/badge/Schamja_Shahaga-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/schamja-s-70112368/)
-
----
-
-## 🧠 Tech Stack
 
 ### 💻 Programmiersprachen & Web
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -68,8 +58,10 @@ Als **Mathematisch-Technische Assistentin Informatik** verbinde ich tiefgreifend
 
 - 🏫 **Masterschool Berlin**  
   **Ausbildung zur AI Engineerin** (2024 – Nov 2026)
+  
 - 🧪 Schwerpunkte:  
-  KI · GenAI · LLMs · API-Integration · HuggingFace · Kostenabschätzung von GenAI-Systemen
+  KI · GenAI · LLMs · API-Integration mit GenAI-Modellen · Prompt Engineering · Kostenabschätzung von GenAI-Systemen · Datenvorverarbeitung und -bereinigung
+  
 - 📊 Datenbanken:  
   **SQLite & PostgreSQL**
 
@@ -79,10 +71,10 @@ Als **Mathematisch-Technische Assistentin Informatik** verbinde ich tiefgreifend
 <div align="center">
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=heidipyaricordero-create&show_icons=true&theme=tokyonight&border_radius=10)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heidipyaricordero-create&layout=compact&theme=tokyonight&border_radius=10)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=schamjashahaga-create&layout=compact&theme=tokyonight&border_radius=10)
 
 </div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=heidipyaricordero-create&label=Profil-Besuche&color=blueviolet&style=flat-square" alt="Views" />
+  <img src="https://komarev.com/ghpvc/?username=schamja&label=Profil-Besuche&color=blueviolet&style=flat-square" alt="Views" />
 </p>
