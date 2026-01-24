@@ -46,6 +46,7 @@ Als **<strong>Mathematisch-Technische Assistentin Informatik</strong>** verbinde
 
 ---
 
+
 ### 🗄 Datenbanken
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -64,8 +65,9 @@ Als **<strong>Mathematisch-Technische Assistentin Informatik</strong>** verbinde
 - 📊 Datenbanken:  
   **SQLite & PostgreSQL**
 
+---
 
-### 📊 GitHub Insights
+### GitHub Insights
 
 <div align="center">
 
