@@ -21,7 +21,7 @@
 
 ### 🚀 Über mich
 
-Als **Mathematisch-Technische Assistentin Informatik** verbinde ich tiefgreifendes IT-Wissen mit über einem Jahrzehnt Praxiserfahrung. Aktuell spezialisiere ich mich auf **AI Engineering**, um moderne KI-Methodiken zur Automatisierung und Optimierung komplexer Systeme einzusetzen.
+Als **<strong>Mathematisch-Technische Assistentin Informatik</strong>** verbinde ich tiefgreifendes IT-Wissen mit über einem Jahrzehnt Praxiserfahrung. Aktuell spezialisiere ich mich auf AI Engineering, um moderne KI-Methodiken zur Automatisierung und Optimierung komplexer Systeme einzusetzen. Meine technische Expertise umfasst Python als Hauptsprache für AI/ML-Projekte und Datenanalyse, solide Kenntnisse in HTML, CSS & JavaScript für Web-Development, Grundlagen in PHP für dynamische Webanwendungen sowie Responsive Design und moderne UI/UX-Implementierung.
 
 * 🔭 **Aktueller Fokus:** GenAI, LLM-Integration & API-Optimierung.
 * ⚡ **Stärke:** Die Brücke zwischen technischer Präzision (MATSE) und kreativer Media-Produktion.
@@ -54,7 +54,6 @@ Als **Mathematisch-Technische Assistentin Informatik** verbinde ich tiefgreifend
 
 ## 🎓 Bildungsweg & Meilensteine
 
-![ISTQB](https://img.shields.io/badge/ISTQB-In_Preparation-orange?style=for-the-badge&logo=istqb)
 
 - 🏫 **Masterschool Berlin**  
   **Ausbildung zur AI Engineerin** (2024 – Nov 2026)
