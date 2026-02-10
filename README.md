@@ -71,6 +71,8 @@ Als **<strong>Mathematisch-Technische Assistentin Informatik</strong>** verbinde
 
 <div align="center">
 
+
+
 ![Schamja's Stats](https://github-readme-stats.vercel.app/api?username=schamja&show_icons=true&theme=tokyonight&border_radius=10)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=schamja&layout=compact&theme=tokyonight&border_radius=10)
 
@@ -79,3 +81,12 @@ Als **<strong>Mathematisch-Technische Assistentin Informatik</strong>** verbinde
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=schamja&label=Profil-Besuche&color=blueviolet&style=flat-square" alt="Views" />
 </p>
+
+
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=schamja&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=schamja&layout=compact&theme=tokyonight" width="300" />
+</p>
+---
+<p align="right">(<a href="#top">Back to TOP↑</a>)</p>
