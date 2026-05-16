@@ -57,7 +57,7 @@ Als **<strong>Mathematisch-Technische Assistentin Informatik</strong>** verbinde
 
 
 - 🏫 **Masterschool Berlin**  
-  **Ausbildung zur AI Engineerin** (2024 – Nov 2026)
+  **Ausbildung zur AI Engineerin** (2025 Sep – Nov 2026)
   
 - 🧪 Schwerpunkte:  
   KI · GenAI · LLMs · API-Integration mit GenAI-Modellen · Prompt Engineering · Kostenabschätzung von GenAI-Systemen · Datenvorverarbeitung und -bereinigung
