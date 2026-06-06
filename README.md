@@ -73,11 +73,16 @@ Software Engineer mit fundierter Informatik-Basis (**MATSE, RWTH Aachen**) und *
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Activity
 
 <p>
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=schamja&show_icons=true&theme=default&hide_border=true&count_private=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=schamja&layout=compact&theme=default&hide_border=true" />
+  <img alt="Followers" src="https://img.shields.io/github/followers/schamja?style=for-the-badge&logo=github&label=Followers&color=2563eb">
+  <img alt="Stars" src="https://img.shields.io/github/stars/schamja?style=for-the-badge&logo=github&label=Stars&color=2563eb">
+  <img alt="Profile views" src="https://komarev.com/ghpvc/?username=schamja&style=for-the-badge&color=2563eb">
+</p>
+
+<p>
+  <img alt="Streak" src="https://streak-stats.demolab.com?user=schamja&hide_border=true&theme=default&card_width=500" />
 </p>
 
 ---
