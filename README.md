@@ -18,7 +18,7 @@ HOW TO USE:
 
 ### Über mich
 
-Software Engineer mit fundierter Informatik-Basis (**MATSE, RWTH Aachen**) und **10+ Jahren** Erfahrung in der digitalen Produktentwicklung. Aktueller Schwerpunkt: **produktionsreife LLM-Anwendungen** mit RAG, Multi-Agent-Architekturen (LangGraph) und Evaluations-Pipelines (LangSmith).
+Software Engineer mit fundierter Informatik-Basis (**MATSE, RWTH Aachen**) und **10+ Jahren** Erfahrung in der digitalen Produktentwicklung. Aktueller Schwerpunkt: **produktionsreife LLM-Anwendungen** mit RAG, Multi-Agent-Architekturen (LangGraph) und Evaluations-Pipelines (LangSmith). Arbeitet täglich mit **Anthropic Claude** und **Claude Code** für AI-assisted Development.
 
 - 🔭 Aktuell: Masterschool Institute of Technology — Software Engineering (Sep 2025 – Nov 2026)
 - 🌱 Fokus: LLM Applications · Agentic AI · RAG Systems · Production Deployment
@@ -31,9 +31,11 @@ Software Engineer mit fundierter Informatik-Basis (**MATSE, RWTH Aachen**) und *
 
 **AI / LLM**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Claude](https://img.shields.io/badge/Anthropic%20Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI%20GPT--4o-412991?style=flat-square&logo=openai&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square)
-![OpenAI](https://img.shields.io/badge/OpenAI%20GPT--4o-412991?style=flat-square&logo=openai&logoColor=white)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6F00?style=flat-square)
 ![LangSmith](https://img.shields.io/badge/LangSmith-1C3C3C?style=flat-square)
 
