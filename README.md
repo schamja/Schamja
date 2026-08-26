@@ -72,7 +72,6 @@ Software Engineer mit fundierter Informatik-Basis (**MATSE, RWTH Aachen**) und *
 ➡️ Mehr auf meinem [Portfolio](https://schamja-shahaga.de)
 
 ---
-
 ### 📊 GitHub Activity
 
 <p>
@@ -84,6 +83,9 @@ Software Engineer mit fundierter Informatik-Basis (**MATSE, RWTH Aachen**) und *
   <img alt="Streak" src="https://streak-stats.demolab.com/?user=schamja&hide_border=true&theme=default&card_width=500" />
 </p>
 
+---
+
+<p align="center"><sub>Open for AI Engineering / Full-Stack Developer roles · Sankt Augustin / Remote · Verfügbar ab Q4 2026</sub></p>
 ---
 
 <p align="center"><sub>Open for AI Engineering / Full-Stack Developer roles · Sankt Augustin / Remote · Verfügbar ab Q4 2026</sub></p>
