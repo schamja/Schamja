@@ -65,7 +65,7 @@ Software Engineer mit fundierter Informatik-Basis (**MATSE, RWTH Aachen**) und *
 
 | Projekt | Beschreibung | Stack |
 |---|---|---|
-| **Kidstorte / CakeDreams Agent** | Produktionsreife LLM-App mit Multi-Agent-Pipeline, RAG, regelbasiertem Preissystem und LangSmith-Monitoring. [Live Demo](http://18.195.83.198:8000/) | Python · FastAPI · LangGraph · ChromaDB · GPT-4o |
+| **Kidstorte / CakeDreams Agent** | Produktionsreife LLM-App mit Multi-Agent-Pipeline, RAG, regelbasiertem Preissystem und LangSmith-Monitoring. [Live Demo](https://kidstorte.de/) | Python · FastAPI · LangGraph · ChromaDB · GPT-4o |
 | **Dynamische Webseite** | AI Multi-Agent Plattform die in 30s SEO-optimierte Multi-Page-Websites generiert. 84/84 Tests ✓ | Python · FastAPI · LangGraph · RAG · DALL·E |
 | **GeoHunters** 🏆 | Hackathon-prämierte interaktive Geografie-Gaming-Plattform mit Multiplayer | Python · JavaScript · WebSockets |
 
