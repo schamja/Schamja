@@ -72,24 +72,6 @@ Software Engineer mit fundierter Informatik-Basis (**MATSE, RWTH Aachen**) und *
 ➡️ Mehr auf meinem [Portfolio](https://schamja-shahaga.de)
 
 ---
-### 📊 GitHub Activity
-
-<p>
-  <img alt="Followers" src="https://img.shields.io/github/followers/schamja?style=for-the-badge&logo=github&label=Followers&color=2563eb" />
-  <img alt="Profile views" src="https://komarev.com/ghpvc/?username=schamja&style=for-the-badge&color=2563eb" />
-</p>
-
-<p>
-  <img alt="Streak" src="https://streak-stats.demolab.com/?user=schamja&hide_border=true&theme=default&card_width=500" />
-</p>
-
----
-
-<p align="center"><sub>Open for AI Engineering / Full-Stack Developer roles · Sankt Augustin / Remote · Verfügbar ab Q4 2026</sub></p>
----
-
-<p align="center"><sub>Open for AI Engineering / Full-Stack Developer roles · Sankt Augustin / Remote · Verfügbar ab Q4 2026</sub></p>
-
----
-
+📊 GitHub Activity
+<p> <img alt="Followers" src="https://img.shields.io/github/followers/schamja?style=for-the-badge&logo=github&label=Followers&color=2563eb" /> <img alt="Profile views" src="https://komarev.com/ghpvc/?username=schamja&style=for-the-badge&color=2563eb" /> </p> <p> <img alt="Streak" src="https://streak-stats.demolab.com/?user=schamja&hide_border=true&theme=default&card_width=500" /> </p>
 <p align="center"><sub>Open for AI Engineering / Full-Stack Developer roles · Sankt Augustin / Remote · Verfügbar ab Q4 2026</sub></p>
