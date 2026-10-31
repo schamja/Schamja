@@ -59,6 +59,9 @@ Software Engineer mit fundierter Informatik-Basis (**MATSE, RWTH Aachen**) und *
 ![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
+**Cloud**
+![AWS Cloud](https://img.shields.io/badge/AWS_Cloud-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+
 ---
 
 ### 🚀 Featured Projects
