@@ -38,6 +38,7 @@ Software Engineer mit fundierter Informatik-Basis (**MATSE, RWTH Aachen**) und *
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6F00?style=flat-square)
 ![LangSmith](https://img.shields.io/badge/LangSmith-1C3C3C?style=flat-square)
+![RAG](https://img.shields.io/badge/RAG-6A5ACD?style=flat-square&logo=bookstack&logoColor=white)
 
 **Backend & Web**
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
